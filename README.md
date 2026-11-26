@@ -74,3 +74,9 @@ GitHub: https://github.com/saiprasanna19320
 ### Transaction Percentages
 ![Percentages](percentages.png)
 
+
+###  Data Visualizations
+![Data Visualizations](visualizations.png)
+
+###  Transaction Results
+![Transaction Results](results.png)

@@ -68,11 +68,11 @@ GitHub: https://github.com/saiprasanna19320
 
 
 ### Anomaly Analysis
-![Anomaly Analysis](anomaly-analysis.png)
+![Anomaly Analysis](anomaly-detection%20(2).png)
 
 
 ### Transaction Percentages
-![Percentages](percentages.png)
+![Transaction Percentages](percentages.png)
 
 
 ###  Data Visualizations

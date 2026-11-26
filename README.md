@@ -57,3 +57,9 @@ An interactive machine learning application for identifying and visualizing pote
 Tholem Sai Prasanna
 
 GitHub: https://github.com/saiprasanna19320
+
+
+
+
+### Dataset Upload
+![Dataset Upload](upload-data.png)

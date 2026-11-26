@@ -59,7 +59,18 @@ Tholem Sai Prasanna
 GitHub: https://github.com/saiprasanna19320
 
 
-
-
 ### Dataset Upload
 ![Dataset Upload](upload-data.png)
+
+
+### Anomaly Detection
+![Anomaly Detection](anomaly-detection.png)
+
+
+### Anomaly Analysis
+![Anomaly Analysis](anomaly-analysis.png)
+
+
+### Transaction Percentages
+![Percentages](percentages.png)
+
